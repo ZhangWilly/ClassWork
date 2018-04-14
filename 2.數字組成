@@ -56,6 +56,6 @@ public class Exercise_2 {
 				if (i==k || j==k)
 				continue;
 	System.out.printf("%d%d%d\n",i,j,k); //(★1?)
-	}}}
-}}
+	}
+}
 ========================================================
